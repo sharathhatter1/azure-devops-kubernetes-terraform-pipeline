@@ -21,7 +21,7 @@ steps:
     ensureBackend: true
     backendAzureRmResourceGroupName: 'terraform-backend-rg'
     backendAzureRmResourceGroupLocation: 'westeurope'
-    backendAzureRmStorageAccountName: 'hatter1storeageaccount'
-    backendAzureRmContainerName: 'hatter1storeageaccountcontainer'
+    backendAzureRmStorageAccountName: 'hatter1storageaccountkub'
+    backendAzureRmContainerName: 'hatter1storageaccountkubcontainer'
     backendAzureRmKey: 'kubernetes-dev.tsstate'
     allowTelemetryCollection: true
